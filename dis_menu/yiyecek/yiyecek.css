@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:wght@100&display=swap');
+
+**:not([class^="fa"]){
+    font-family: 'Genos','Corinthia', sans-serif !important;;
+}
